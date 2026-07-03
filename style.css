@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 5px;
+}
+#hero1{
+    background-color: beige;
+    background-image: url("fool.jpg");
+    background-repeat: no-repeat;
+    background-position: contain;
+    height: 10vh;
+    width: 100vw;
+
+}
+h1{color: aquamarine;
+background-color: rgb(245, 238, 238);}
+.nav{
+    border: solid;
+    border-radius: 0px;
+    padding: 10px;
+    margin: 20px;
+    
+}
+.about{
+    border-radius:2px;
+    border: solid;
+    background-color: bisque;
+    padding: 20px;
+    margin: 0%;
+
+}
+.skills{
+    background: linear-gradient(rgb(89, 230, 230),white);
+
+}
+.chess{
+    border-radius: round;
+    padding: 2px;
+    border-color: blueviolet;
+}
+.contact{
+    background-color: aquamarine;
+}

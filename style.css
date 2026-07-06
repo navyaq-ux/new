@@ -32,7 +32,7 @@ background-color: rgb(245, 238, 238);}
     background: linear-gradient(rgb(89, 230, 230),white);
 
 }
-.chess{
+.card{
     border-radius: round;
     padding: 2px;
     border-color: blueviolet;
